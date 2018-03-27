@@ -1,0 +1,10 @@
+{
+  "name": "Density",
+  "description": "Compute the density on x and y axis per cell",
+  "tags": ["basic statistics"],
+  "authors": ["tercen"],
+  "urls": ["https://github.com/tercen/density_operator"],
+  "properties": []
+}
+
+
