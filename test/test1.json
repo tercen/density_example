@@ -5,7 +5,7 @@
   "inputDataUri": "crabs-long.csv",
   "outputDataUri": "result.csv",
   "columns": ["sex"],
-  "rows": ["variable"],
+  "rows": [""],
   "colors": [""],
   "labels": [],
   "yAxis": "measurement",
