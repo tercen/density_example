@@ -1,6 +1,6 @@
 {
   "name": "Density",
-  "description": "Compute the density on x and y axis per cell",
+  "description": "Calculates the probabilty of a data point based on the distribution of the total data.",
   "tags": ["basic statistics"],
   "authors": ["tercen"],
   "urls": ["https://github.com/tercen/density_operator"],
